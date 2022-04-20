@@ -4,7 +4,7 @@
     <!--CSS link-->
     <link rel="stylesheet" href="./css/nav.css">
     <link rel="stylesheet" href="./css/bootstrap.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">!-->
     <!--bootstrap link-->
     <script src="./js/bootstrap.min.js"></script>
     <script src="./js/jquery-3.5.1.js"></script>
@@ -20,7 +20,7 @@
     <!--font-awesome link-->
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 
-    <link rel="icon" href="../images/logo.png">
+    <link rel="icon" href="img/dumbell.png">
     <title>DGL</title>
 
 </head>

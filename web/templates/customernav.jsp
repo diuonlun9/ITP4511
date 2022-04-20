@@ -8,47 +8,38 @@
 
 <nav id="sidebar">
     <div class="sidebar-header">
-        <h3>DGL<img src="../images/logo.png" width="65px"> </h3>
+        <h3>DGL<img src="img/dumbell.png" width="65px"> </h3>
 
     </div>
 
     <ul class="list-unstyled components text-white">
         <li>
-            <a href="#Reward" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Reward</a>
-            <ul class="collapse list-unstyled" id="Reward">
+            <a href="#Listing" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Listings</a>
+            <ul class="collapse list-unstyled" id="Listing">
                 <li>
-                    <a href="./insertReward.php">Insert Reward</a>
+                    <a href="./customer_listtrainer.jsp">Personal Trainers</a>
                 </li>
                 <li>
-                    <a href="./editReward.php">Edit Reward</a>
-                </li>
-                <li>
-                    <a href="./confirmReward.php">Confirm Reward</a>
+                    <a href="./customer_listcenter.jsp">Gym centers</a>
                 </li>
             </ul>
         </li>
         <li>
-            <a href="#Store" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Store</a>
-            <ul class="collapse list-unstyled" id="Store">
+            <a href="#Booking" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Booking</a>
+            <ul class="collapse list-unstyled" id="Booking">
                 <li>
-                    <a href="./verifyStore.php">Verify Store</a>
+                    <a href="./verifyStore.php">Booking Records</a>
                 </li>
                 <li>
-                    <a href="./editStore.php">Edit Store</a>
-                </li>
-                <li>
-                    <a href="#">Store</a>
+                    <a href="./editStore.php">Send Booking Request</a>
                 </li>
             </ul>
         </li>
-        <li>
-            <a href="./accountManagerment.php">Account Managerment</a>
-        </li>
+
     </ul>
 
     <ul class="list-unstyled CTAs">
-        <li id="userText" >mdo</li>
-        <li><a class="dropdown-item" href="./profile.php">Profile</a></li>
+
         <li>
             <hr class="dropdown-divider">
         </li>

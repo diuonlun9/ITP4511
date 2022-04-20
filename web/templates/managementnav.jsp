@@ -8,7 +8,7 @@
 
 <nav id="sidebar">
     <div class="sidebar-header">
-        <h3>DGL<img src="../images/logo.png" width="65px"> </h3>
+        <h3>DGL<img src="../img/dumbell.png" width="65px"> </h3>
 
     </div>
 

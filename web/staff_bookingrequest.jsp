@@ -10,7 +10,7 @@
     <jsp:include page="templates/head.jsp"/>
     <body>
         <div id="wrapper">
-            <jsp:include page="templates/customernav.jsp"/>
+            <jsp:include page="templates/staffnav.jsp"/>
         </div>
     </body>
 </html>
